@@ -1,6 +1,6 @@
 # <h1 align="center">Site de Mochila de Viagem</h1>
 
-![Imagem do site da AluraPlus Desktop](./layouts/Alurinha.png)
+![Imagem do site da AluraPlus Desktop](./layout/Mochila_viagem.png)
 
 <h2 align="center"> Descrição do Projeto </h2>
 <br>
