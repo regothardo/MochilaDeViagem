@@ -19,7 +19,7 @@
           
 <h2 align="center"> :notebook:  O que Aprendi  :notebook:</h2>
 
- - Interajir com a página e com LocalStorage;
+ - Interagir com a página e com LocalStorage;
  - Criar objetos no JavaScript;
  - Registrar dados no LocalStorage;
  - Implementar páginas que armazenam dados;
