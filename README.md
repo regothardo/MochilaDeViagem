@@ -4,9 +4,11 @@
 
 <h2 align="center"> Descrição do Projeto </h2>
 <br>
+<p align="justify">
     Criação do site de Mochila de viagem, no qual você insere o nome do objeto que vai colocar na mala e a quantidade.<br>
-    Ao salvar os dados, eles são armazenados dinamicamente na página e mesmo saindo da página é possível recuperar as informações anteriormente lançadas e até modificá-las.<br>
+    <br>
     Projeto desenvolvido para demonstrar os conhecimentos adquiridos no curso "JavaScript na Web: armazenando dados no navegador", presente no site na Alura.
+</p>
 <br>
 
 <h2 align="center"> :hammer:  Ferramentas e Funcionalidades  :hammer: </h2>
@@ -14,7 +16,16 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" with="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" with="40" height="40">
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" with="40" height="40">      </div>
+
+<br>
+
+<p align="justify">
+Ao salvar os dados lançados nos campos correspondentes, eles são armazenados dinamicamente na página, sendo possível modificá-las.<br>
+</p>
+
+![Imagem do site da AluraPlus Desktop](./layout/Site_Mochila_com_dados.png)
+
 <br>
           
 <h2 align="center"> :notebook:  O que Aprendi  :notebook:</h2>
